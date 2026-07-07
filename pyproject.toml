@@ -10,3 +10,7 @@ dependencies = [
 
 [tool.uv]
 package = false
+ANTHROPIC_API_KEY = "sk-ant-..."
+SUPABASE_URL = "https://SEU-PROJETO.supabase.co"
+SUPABASE_KEY = "sua-service-role-key-ou-anon-key"
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
